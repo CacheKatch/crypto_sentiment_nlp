@@ -36,6 +36,20 @@ Due to the above, the sentiment outlook is more favorable toward Ethereum than B
   </tr>
 </table>
 
+&ensp; **Natural Language Processing**: Based on the qualititative appearance of the Word Clouds, the word Bitcoin is more frequently mentioned, as the size of the words in the charts increases with the frequency that the word appears. Also, it is worth mentioning that the word Bitcoin was so often cited on Ethereum news that an additional stopword removal (with bitcoin) was needed to differentiate Ethereum word cloud.
+
+![Bitcoin Word Cloud](Images/bitcoin_word_cloud.png)
+
+![Ethereum Word Cloud](Images/ethereum_word_cloud.png)
+
+&ensp; **Name Entity Recognition**: Below the entity recognition diagrams for each crypto currency
+
+![Bitcoin NER](Images/bit_ner.png)
+
+
+![Ethereum NER](Images/eth_ner.png)
+
+
  
 
 
